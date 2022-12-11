@@ -1,0 +1,6 @@
+/h264decoder/build/
+libh264decoder.so
+*.pyc
+*.swp
+__pycache__
+ball_dataset/

@@ -1,0 +1,5 @@
+2 向云飞 罗一夫
+cd catkin_sim
+catkin_make
+source devel/setup.bash
+rosrun tello_control tello_control_main.py
