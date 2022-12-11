@@ -1,0 +1,15 @@
+{
+    "ros.distro": "melodic",
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/melodic/lib/python2.7/dist-packages",
+        "/home/zero/Desktop/lesson_ros/Final/tello_ws/devel/lib",
+        "/home/zero/Desktop/lesson_ros/Final/tello_ws/src/tello_control",
+        "/home/zero/Desktop/lesson_ros/Final/tello_ws/src/tello_final-master"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/melodic/lib/python2.7/dist-packages",
+        "/home/zero/Desktop/lesson_ros/Final/tello_ws/devel/lib",
+        "/home/zero/Desktop/lesson_ros/Final/tello_ws/src/tello_control",
+        "/home/zero/Desktop/lesson_ros/Final/tello_ws/src/tello_final-master"
+    ]
+}
